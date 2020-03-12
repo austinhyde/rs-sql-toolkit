@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "query-cli",
+  "query-engine",
+  "sql-parser",
+  "sql-models",
+]

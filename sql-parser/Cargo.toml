@@ -1,0 +1,9 @@
+[package]
+name = "sql-parser"
+version = "0.1.0"
+authors = ["Austin Hyde <austin109@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "5.1.0"
+sql-models = {path="../sql-models"}
